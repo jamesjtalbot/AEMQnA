@@ -26,9 +26,9 @@
 
 - If you are an AEM on-premise, AMS, or Cloud Service customer, you can access CAM by following the steps below: 
 
-1). Login to Adobe Experience Cloud 
-2). Click on Experience Manager card 
-3). Click on Launch on the Cloud Acceleration Manager card to open the landing page 
+1. Login to Adobe Experience Cloud 
+2. Click on Experience Manager card 
+3. Click on Launch on the Cloud Acceleration Manager card to open the landing page 
 
 ## **Is there a way to filter out the ACS common data in the Repository Modernizer?**
 
