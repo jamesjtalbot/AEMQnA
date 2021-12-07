@@ -1,6 +1,6 @@
 ## **Does the BPA tool report on the code which is not clustering? Or is that an advanced use case?**
 
-### The BPA tool does not specifically analyze code that is not written for clustering.
+-The BPA tool does not specifically analyze code that is not written for clustering.
 
 ## **Where should we run resource intensive code? Is there an option to design a custom solution?**
 
